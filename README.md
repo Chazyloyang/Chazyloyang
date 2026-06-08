@@ -1,5 +1,5 @@
 -  Hi, I’m Chazyloyang
--  I’m interested in Data Science with SQL & Python.
+-  I’m interested in Data Science with Python.
 -  I’m looking to collaborate on anything related to Data science and Agentic AI(I am getting into).
 -  You can reach me on LinkedIn through https://www.linkedin.com/in/ajichei-chazyloyang or you can email me at chazyloyangajichei@gmail.com.
 -  Here's my GitHub link https://github.com/Chazyloyang/Chazyloyang.
